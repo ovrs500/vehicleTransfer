@@ -1,0 +1,7 @@
+c:\projects\vehicletrans\src\test\Tests.Entities\bin\Debug\Tests.Entities.dll
+c:\projects\vehicletrans\src\test\Tests.Entities\bin\Debug\Tests.Entities.pdb
+c:\projects\vehicletrans\src\test\Tests.Entities\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\projects\vehicletrans\src\test\Tests.Entities\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\projects\vehicletrans\src\test\Tests.Entities\obj\Debug\Tests.Entities.csprojResolveAssemblyReference.cache
+c:\projects\vehicletrans\src\test\Tests.Entities\obj\Debug\Tests.Entities.dll
+c:\projects\vehicletrans\src\test\Tests.Entities\obj\Debug\Tests.Entities.pdb

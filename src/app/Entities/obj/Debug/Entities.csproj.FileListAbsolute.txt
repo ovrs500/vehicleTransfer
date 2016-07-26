@@ -1,0 +1,5 @@
+c:\projects\vehicletrans\src\app\Entities\bin\Debug\Entities.dll
+c:\projects\vehicletrans\src\app\Entities\bin\Debug\Entities.pdb
+c:\projects\vehicletrans\src\app\Entities\obj\Debug\Entities.dll
+c:\projects\vehicletrans\src\app\Entities\obj\Debug\Entities.pdb
+c:\projects\vehicletrans\src\app\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
